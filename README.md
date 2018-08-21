@@ -5,7 +5,7 @@
 
 ### Amazingly SOME Math students do not like Computer Science ?!?!
 
-#### I have created a number of very simple Jupyter Notebooks that illustrate College Math soludions:
+#### I have created a number of very simple Jupyter Notebooks that illustrate College Math solutions:
  - Algebra
  - Analytic Geometry
  - Trigonometry
