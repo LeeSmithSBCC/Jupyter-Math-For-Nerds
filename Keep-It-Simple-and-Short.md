@@ -15,3 +15,5 @@
  - I recommend that you create a new Folder [call it Jupiter ...] in your Documents folder, for easy access.
  - Starting Jupyer is sooooooo simply --- just hit the FLAG/PC key [small dialog box comes up] and start to type in Jupyter, ENTER
  - This will bring up the Documents folder in a Browser [default is IE/Edge]
+ 
+ ## Have FUN with MATH !!!
