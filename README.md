@@ -3,7 +3,7 @@
 
 ### Amazingly SOME Computer Science students do not like MATH ?!?!
 
-### Amazingly SOME Math students do not like Computer Science ?!?!
+### Amazingly SOME Math students do not like COMPUTER SCIENCE ?!?!
 
 #### I have created a number of very simple Jupyter Notebooks that illustrate College Math solutions:
  - Algebra
