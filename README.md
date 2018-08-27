@@ -1,5 +1,5 @@
 # Jupyter-Math-For-Nerds
-## Quick reference for using Sympy and Jupyter to quickly solve college math
+## Quick reference for using Sympy and Jupyter to quickly solve college math problems.
 
 ### Amazingly SOME Computer Science students do not like MATH ?!?!
 
