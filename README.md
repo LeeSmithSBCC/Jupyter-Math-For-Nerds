@@ -16,7 +16,7 @@
  ####  Click on IntroImage.PNG to see part of one Notebook file
  
  ### Brower-HTML-Files FOLDER has Browser versions of Notebook files.
- ### 
+ ### Jupiter-Files FOLDER has Jupyter Notebook files [.ipynb extension]
  
  ##### ENJOY -- LeeSmithSBCC@gmail.com
 
