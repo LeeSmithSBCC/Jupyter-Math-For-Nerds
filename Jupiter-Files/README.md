@@ -13,8 +13,8 @@
   - Unzip it, go to the Notebook folder and open it with your Browser.
   
  ### Another option is to install a Notebook Viewer Add-on for your Browser.
-  - Just double click on any .ipynb file.  Note that the file is not make changes.
+  - Just double click on any .ipynb file.  Note that you can not make changes to this file.
   
-#### Let me know if you have problems.
+#### Let me know if you have problems.  I want to make this work.
 #### GitHub will now allow you to download a single file [yet].
 
