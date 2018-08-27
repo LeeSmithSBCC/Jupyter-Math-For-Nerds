@@ -15,6 +15,9 @@
  
  ####  Click on IntroImage.PNG to see part of one Notebook file
  
+ ### Brower-HTML-Files FOLDER has Browser versions of Notebook files.
+ ### 
+ 
  ##### ENJOY -- LeeSmithSBCC@gmail.com
 
 
