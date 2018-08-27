@@ -13,6 +13,8 @@
  - Calculus
  - Series and Limits
  
- ## ENJOY -- LeeSmithSBCC@gmail.com
+ ####  Click on IntroHtml.PNG to see part of one Notebook file
+ 
+ ##### ENJOY -- LeeSmithSBCC@gmail.com
 
 
