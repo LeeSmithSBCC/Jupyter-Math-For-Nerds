@@ -13,7 +13,7 @@
  - Calculus
  - Series and Limits
  
- ####  Click on IntroHtml.PNG to see part of one Notebook file
+ ####  Click on IntroImage.PNG to see part of one Notebook file
  
  ##### ENJOY -- LeeSmithSBCC@gmail.com
 
