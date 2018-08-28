@@ -1,6 +1,6 @@
 
 ## In this folder there are examples of Jupyter Notebook files [.ipynb extension]
-#### GitHub does not allow downloading individual files easily.
+#### [NOTE: GitHub does not allow downloading individual files easily.]
 
 ### There are three simple and short methods to view each of the Notebook files.
 
