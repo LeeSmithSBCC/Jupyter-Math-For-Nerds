@@ -4,7 +4,7 @@
 
 ### There are three simple and short methods to view each of the Notebook files.
 
-### The easist way to just look at a Notebook file is load an Add-On or Extension to Google Chrome
+### The easist way to look at a Notebook file is load an Add-On or Extension to Google Chrome.
  - Open your Chrome app and go to https://chrome.google.com/webstore/search/nbviewer
    - Click on the blue button "+ ADD TO CHROME" for the 'Open in nbviewer' extension
    - Then just click on any of the .ipynb files
@@ -19,7 +19,7 @@
  - If you do this for Windows 10 for PC, start Jupyter from the command line by pressing the 'PLAG' key and R, type in Jupyter.
   - You can change each of the cells or add new cells in the Notebook for your particular math problem.
   
- ### Finally go to te Jupyter-Math-for-Nerds Folder and click on the DOWNLAD zip button [Upper Right Hand Side of the Page]
+ ### Finally go to te Jupyter-Math-for-Nerds Folder and click on the DOWNLOAD zip button [Upper Right Hand Side of the Page]
   - A zipped folder will go to your Downloads folder [for most systems].  
   - Unzip it, go to the Notebook folder and open it with your Browser.
   
