@@ -19,7 +19,7 @@
  - If you do this for Windows 10 for PC, start Jupyter from the command line by pressing the 'PLAG' key and R, type in Jupyter.
   - You can change each of the cells or add new cells in the Notebook for your particular math problem.
   
- ### Finally go to te Jupyter-Math-for-Nerds Folder and click on the DOWNLOAD zip button [Upper Right Hand Side of the Page]
+ ### Finally go to te Jupyter-Math-for-Nerds Folder and click on the Green DOWNLOAD zip button [Upper Right Hand Side of the Page]
   - A zipped folder will go to your Downloads folder [for most systems].  
   - Unzip it, go to the Notebook folder and open it with your Browser.
   
