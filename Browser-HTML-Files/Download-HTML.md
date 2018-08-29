@@ -7,5 +7,5 @@
 #### GitHub will now allow you to download a single file [yet].
  - There are a couple of workarounds I found by googling, but they were too complicated or quirky.
  
-  #### Let me know if you have problems.  I want to make this work
+  #### Let me know if you have problems.  I want to make this work 
 
