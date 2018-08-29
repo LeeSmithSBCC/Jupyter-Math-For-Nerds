@@ -16,4 +16,4 @@
  - Starting Jupyer is sooooooo simply --- just hit the FLAG/PC key [small dialog box comes up] and start to type in Jupyter, ENTER
  - This will bring up the Documents folder in a Browser [default is IE/Edge]
  
- ## Have FUN with MATH !!!
+ ## Have FUN with MATH !!! 
