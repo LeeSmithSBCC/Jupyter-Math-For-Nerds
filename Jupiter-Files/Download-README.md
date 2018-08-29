@@ -24,5 +24,5 @@
   - A zipped folder will go to your Downloads folder [for most systems].  
   - Unzip it, go to the Notebook folder and open it with your Browser.
   
-#### Let me know if you have problems.  I want to make this work.
+#### Let me know if you have problems.  I want to make this work. 
 
