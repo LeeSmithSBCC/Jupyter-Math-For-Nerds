@@ -9,6 +9,7 @@
  - Algebra
  - Analytic Geometry
  - Trigonometry
+ - Plotting
  - Differentiatives
  - Calculus
  - Series and Limits
