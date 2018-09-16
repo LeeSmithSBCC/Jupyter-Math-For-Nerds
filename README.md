@@ -10,15 +10,14 @@
  - Analytic Geometry
  - Trigonometry
  - Plotting
- - Differentiatives
+ - Derivatives
  - Calculus
  - Series and Limits
+ - Linear Analysis [coming soon]
+ - ODE and PDE [differential equations], a work in progress
  
- ####  Click on IntroImage.PNG to see part of one Notebook file
- 
- ### Brower-HTML-Files FOLDER has Browser versions of Notebook files.
- ### Jupiter-Files FOLDER has Jupyter Notebook files [.ipynb extension]
+ #### If you have not installed Anaconda on your computer, there is a PDF of each Notebook
+ ### The Jupiter-Files FOLDER has Jupyter Notebook files [.ipynb extension]
  
  ##### ENJOY -- LeeSmithSBCC@gmail.com 
-
-
+  - I will post some or your email messages and questions/answers
