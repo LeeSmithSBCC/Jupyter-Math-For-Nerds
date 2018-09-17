@@ -20,6 +20,6 @@
  ### The Jupiter-Files FOLDER has Jupyter Notebook files [.ipynb extension]
  
  ##### ENJOY -- LeeSmithSBCC@gmail.com 
-  - I will post some or your email messages and questions/answers
+  - I will post some of your email messages and questions/answers
   
   [rev 091618]
